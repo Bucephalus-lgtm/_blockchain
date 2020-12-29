@@ -1,2 +1,2 @@
-### Build a Blockchain and Cryptocurrency | Full-Stack MERN
+### Blockchain and Cryptocurrency | Full-Stack MERN
 
