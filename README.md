@@ -4,3 +4,5 @@ For running the app in your PC locally, you should have installed REDIS SERVER i
 
 
 Then, ypu simply run npm run dev in your terminal.
+
+In case you get some error to run the app because of redis running in background, please head to <a href="https://stackoverflow.com/questions/14816892/how-to-keep-redis-server-running" > this. </a>
