@@ -5,7 +5,7 @@ A full stack MERN web app for blockchain and cryptcurrency.
 The overall functionality is like this:
  1. API around the Blockchain
  2. Real-time connected peer-to-peer server with a pub/sub implementation through Redis-server.
- 3. Sign Transactions with cryptography and digital signature.
+ 3. Sign Transactions with cryptography(secp256k1 which is alos used by Bitcoin and Ethereum) and digital signature.
  4. Create a Transaction Pool for a real-time list of incoming data.
  5. Include transactions in core blocks of the chain
 
