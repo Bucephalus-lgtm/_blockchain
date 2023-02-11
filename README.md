@@ -1,6 +1,6 @@
 ### Blockchain and Cryptocurrency | Full-Stack MERN
 
-A full stack MERN web app for blockchain and cryptcurrency. 
+A full stack Node.js based web app for blockchain and cryptcurrency. 
 
 The overall functionality is like this:
  1. API around the Blockchain
